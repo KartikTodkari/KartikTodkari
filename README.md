@@ -1,5 +1,9 @@
 # 💫 About Me:
-I am a Kartik Todkari Python Developer and Generative AI enthusiast with a strong interest in building practical, real-world applications. I enjoy working on Python-based projects, automation scripts, and experimenting with Generative AI tools to understand how they can be applied effectively.<br><br>Currently, I am focused on learning Python for data processing, prompt engineering, and Generative AI fundamentals, along with basic machine learning concepts. I like improving my skills by building small projects, exploring new tools, and continuously refining my approach through hands-on practice.<br><br>I am open to collaborating on beginner-friendly Python projects, Generative AI experiments, and learning-focused open-source initiatives, and I believe consistent learning and experimentation are key to long-term growth as a developer.
+I am a Software Developer and Generative AI enthusiast with a strong interest in building practical, real-world applications. I primarily use Python for development, automation, and experimentation, and I enjoy exploring how Generative AI technologies can be applied to solve meaningful problems.
+
+Currently, I am strengthening my foundation in software development using Python, along with Generative AI fundamentals, prompt engineering, and basic machine learning concepts. I focus on learning through hands-on projects, experimenting with new tools, and continuously improving my code quality and problem-solving skills.
+
+I am open to collaborating on learning-focused software projects, Generative AI experiments, and beginner-friendly open-source initiatives. I believe consistent practice, curiosity, and building small but meaningful projects are essential to growing as a software developer
 
 
 ## 🌐 Socials:
